@@ -1,4 +1,4 @@
-# sddm-perzonalido
+
 #  SDDM Personalizado
 
 ![preview](preview.png)
