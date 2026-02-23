@@ -1,7 +1,10 @@
 
 #  SDDM Personalizado
 
-![preview](preview.png)
+![preview1](guitargirl_repo.jpg)
+![preview2](nino_repo.jpg)
+
+
 
 Configuración de SDDM con tema Sugar Candy y fondo aleatorio en cada inicio.
 
