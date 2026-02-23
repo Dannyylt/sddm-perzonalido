@@ -1,0 +1,11 @@
+[Unit]
+Description=Fondo aleatorio para SDDM
+Before=sddm.service
+After=local-fs.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/sddm-random-bg.sh
+
+[Install]
+WantedBy=multi-user.target
